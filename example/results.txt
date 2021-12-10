@@ -1,0 +1,5 @@
+The lowest person(s) is(are):
+John
+Toby
+
+The average weight is 72.5
